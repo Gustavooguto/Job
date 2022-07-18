@@ -1,0 +1,26 @@
+[
+  {
+    "origem": "system_1",
+    "prioridade": 1
+  },
+  {
+    "origem": "system_2",
+    "prioridade": 2
+  },
+  {
+    "origem": "system_3",
+    "prioridade": 4
+  },
+  {
+    "origem": "system_4",
+    "prioridade": 3
+  },
+  {
+    "origem": "system_5",
+    "prioridade": 5
+  },
+  {
+    "origem": "system_6",
+    "prioridade": 6
+  }
+]
